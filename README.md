@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Version-0.0.1-green
+[![GitHub issues](https://img.shields.io/github/issues/alexandretrieste/git_basics)](https://github.com/alexandretrieste/git_basics/issues)
 # **Git Basics**
 
 ## Create a first commit with git command line and using markdown for this.
