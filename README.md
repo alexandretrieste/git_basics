@@ -1,4 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/alexandretrieste/git_basics)](https://github.com/alexandretrieste/git_basics/issues)
+
+🚧  Git | ... | ... 🚀 in building...  🚧
 # **Git Basics**
 
 ## Create a first commit with git command line and using markdown for this.
