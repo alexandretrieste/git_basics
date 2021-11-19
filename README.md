@@ -1,3 +1,4 @@
+https://img.shields.io/badge/Version-0.0.1-green
 # **Git Basics**
 
 ## Create a first commit with git command line and using markdown for this.
